@@ -6,7 +6,6 @@ Description: Test run of an electron app.
 License: MIT + file LICENSE
 Imports: 
     config,
-    golem,
     shiny,
     processx,
     attempt,
